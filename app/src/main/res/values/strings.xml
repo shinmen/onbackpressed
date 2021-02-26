@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">onbackpressed</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="second">Second</string>
+    <string name="first">First</string>
+    <string name="saved">Saisie sauvegaardée</string>
+    <string name="stuff">required stuff</string>
+    <string name="error">"Veuillez remplir le champs"</string>
+    <string name="historique_de_saisie">Historique de saisie</string>
+</resources>
